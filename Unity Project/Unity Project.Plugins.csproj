@@ -75,7 +75,21 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Standard Assets\UnityAds\Scripts\CorpseButton.cs" />
+    <Compile Include="Assets\Standard Assets\UnityAds\Scripts\Advertisement.cs" />
+    <Compile Include="Assets\Standard Assets\UnityAds\Scripts\Advertisements\Misc\AsyncExec.cs" />
+    <Compile Include="Assets\Standard Assets\UnityAds\Scripts\Advertisements\Misc\MiniJSON.cs" />
+    <Compile Include="Assets\Standard Assets\UnityAds\Scripts\Advertisements\Misc\Utils.cs" />
+    <Compile Include="Assets\Standard Assets\UnityAds\Scripts\Advertisements\ShowOptionsExtended.cs" />
+    <Compile Include="Assets\Standard Assets\UnityAds\Scripts\Advertisements\VideoAds\UnityAds.cs" />
+    <Compile Include="Assets\Standard Assets\UnityAds\Scripts\Advertisements\VideoAds\UnityAdsAndroid.cs" />
+    <Compile Include="Assets\Standard Assets\UnityAds\Scripts\Advertisements\VideoAds\UnityAdsEditor.cs" />
+    <Compile Include="Assets\Standard Assets\UnityAds\Scripts\Advertisements\VideoAds\UnityAdsEditorPlaceholder.cs" />
+    <Compile Include="Assets\Standard Assets\UnityAds\Scripts\Advertisements\VideoAds\UnityAdsExternal.cs" />
+    <Compile Include="Assets\Standard Assets\UnityAds\Scripts\Advertisements\VideoAds\UnityAdsIos.cs" />
+    <Compile Include="Assets\Standard Assets\UnityAds\Scripts\Advertisements\VideoAds\UnityAdsIosBridge.cs" />
+    <Compile Include="Assets\Standard Assets\UnityAds\Scripts\Advertisements\VideoAds\UnityAdsPlatform.cs" />
+    <Compile Include="Assets\Standard Assets\UnityAds\Scripts\ShowOptions.cs" />
+    <Compile Include="Assets\Standard Assets\UnityAds\Scripts\ShowResult.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Plugins\Android\unityads\AndroidManifest.xml" />
@@ -91,10 +105,6 @@
     <None Include="Assets\Plugins\Android\unityads\res\layout\unityads_view_video_paused.xml" />
     <None Include="Assets\Plugins\Android\unityads\res\layout\unityads_view_video_play.xml" />
     <None Include="Assets\Plugins\Android\unityads\res\values\strings.xml" />
-    <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
-    <None Include="Assets\Standard Assets\Projectors\Guidelines.txt" />
-    <None Include="Assets\Standard Assets\Projectors\Sources\Shaders\Projector Light.shader" />
-    <None Include="Assets\Standard Assets\Projectors\Sources\Shaders\Projector Multiply.shader" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

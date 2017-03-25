@@ -75,9 +75,27 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="Unity Project.Plugins.csproj">
+      <Project>{BBC917CD-3060-7709-2415-E10F5BD4FF73}</Project>
+      <Name>Unity Project.Plugins</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
     <Compile Include="Assets\ChaacterMoovment.cs" />
     <Compile Include="Assets\CorpseButton.cs" />
-    <Compile Include="Assets\ThornsInstaKi.cs" />
+    <Compile Include="Assets\Script\Level\Camera_Freeze.cs" />
+    <Compile Include="Assets\Script\Level\Flag.cs" />
+    <Compile Include="Assets\Script\Level\Level_maker.cs" />
+    <Compile Include="Assets\Script\Level\Player\Character_Movement.cs" />
+    <Compile Include="Assets\Script\Level\Timer.cs" />
+    <Compile Include="Assets\Script\Logo\Logo_Change_Scene.cs" />
+    <Compile Include="Assets\Script\Menu\Ads\Ads.cs" />
+    <Compile Include="Assets\Script\Menu\Buttons\Buttons.cs" />
+    <Compile Include="Assets\Script\Menu\Buttons\Earn_Coins.cs" />
+    <Compile Include="Assets\Script\Menu\Coins_Menu.cs" />
+    <Compile Include="Assets\Script\Upgrades\Exit.cs" />
+    <Compile Include="Assets\Script\Upgrades\Timer_Upgrade.cs" />
+    <Compile Include="Assets\ThornsInstaKill.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Plugins\Android\unityads\AndroidManifest.xml" />
