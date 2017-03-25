@@ -1,0 +1,21 @@
+E:\Normandy\Hacktues\Artstealer\Unity Project\Temp\UnityVS_obj\Debug\Unity Project.Plugins.csprojResolveAssemblyReference.cache
+E:\Normandy\Hacktues\Artstealer\Unity Project\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+E:\Normandy\Hacktues\Artstealer\Unity Project\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\Normandy\Hacktues\Artstealer\Unity Project\Temp\UnityVS_bin\Debug\UnityEditor.dll
+E:\Normandy\Hacktues\Artstealer\Unity Project\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+E:\Normandy\Hacktues\Artstealer\Unity Project\Temp\UnityVS_bin\Debug\UnityEngine.dll
+E:\Normandy\Hacktues\Artstealer\Unity Project\Temp\UnityVS_bin\Debug\UnityEngine.HoloLens.dll
+E:\Normandy\Hacktues\Artstealer\Unity Project\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+E:\Normandy\Hacktues\Artstealer\Unity Project\Temp\UnityVS_bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+E:\Normandy\Hacktues\Artstealer\Unity Project\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+E:\Normandy\Hacktues\Artstealer\Unity Project\Temp\UnityVS_bin\Debug\UnityEngine.VR.dll
+E:\Normandy\Hacktues\Artstealer\Unity Project\Temp\UnityVS_bin\Debug\UnityEngine.xml
+E:\Normandy\Hacktues\Artstealer\Unity Project\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+E:\Normandy\Hacktues\Artstealer\Unity Project\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+E:\Normandy\Hacktues\Artstealer\Unity Project\Temp\UnityVS_bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+E:\Normandy\Hacktues\Artstealer\Unity Project\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+E:\Normandy\Hacktues\Artstealer\Unity Project\Temp\UnityVS_bin\Debug\UnityEngine.HoloLens.xml
+E:\Normandy\Hacktues\Artstealer\Unity Project\Temp\UnityVS_bin\Debug\UnityEngine.VR.xml
+E:\Normandy\Hacktues\Artstealer\Unity Project\Temp\UnityVS_bin\Debug\UnityEditor.xml
+E:\Normandy\Hacktues\Artstealer\Unity Project\Temp\UnityVS_obj\Debug\Assembly-CSharp-firstpass.dll
+E:\Normandy\Hacktues\Artstealer\Unity Project\Temp\UnityVS_obj\Debug\Assembly-CSharp-firstpass.pdb

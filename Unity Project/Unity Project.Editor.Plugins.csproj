@@ -117,10 +117,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="Unity Project.Plugins.csproj">
-      <Project>{BBC917CD-3060-7709-2415-E10F5BD4FF73}</Project>
-      <Name>Unity Project.Plugins</Name>
-    </ProjectReference>
     <ProjectReference Include="Unity Project.csproj">
       <Project>{907B5920-0084-E793-56BB-B0CD340359AA}</Project>
       <Name>Unity Project</Name>
